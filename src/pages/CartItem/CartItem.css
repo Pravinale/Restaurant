@@ -1,0 +1,128 @@
+.cart-item-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cart-item-container img{
+    height: 5rem;
+    width: 5rem;
+    object-fit: fill;
+    border-radius: 10px;
+}
+
+.item-content .item-name{
+    font-weight: 600;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.item-content .item-price{
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #ff9f0d;
+    text-align: center;
+}
+
+.item-quantity{
+    display: flex;
+    height: 2rem;
+    gap: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.minus, .plus{
+    text-align: center;
+    width: 2rem;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    background-color: #ff9f0d;
+    color: white;
+    cursor: pointer;
+}
+
+.qnty{
+    text-align: center;
+    width: 1.5rem;
+}
+
+
+
+
+@media(max-width: 1000px){
+    
+.cart-item-container img{
+    height: 3rem;
+    width: 3rem;
+
+}
+
+.item-content .item-name, .item-price{
+  font-size: 1rem;
+}
+
+
+.minus, .plus, .qnty{
+    font-size: 1rem;
+}
+
+}
+
+
+@media(max-width: 1000px){
+    
+    .cart-item-container img{
+        height: 2.3rem;
+        width: 2.3rem;
+    
+    }
+    .item-content{
+        line-height: 0.5rem;
+    }
+    .item-content .item-name, .item-price{
+      font-size: 1rem;
+    }
+    
+    
+    .minus, .plus, .qnty{
+        font-size: 1rem;
+    }
+    
+    }
+
+
+    @media(max-width: 450px){
+    
+        .cart-item-container img{
+            height: 2.3rem;
+            width: 2.3rem;
+        
+        }
+        .item-content{
+            line-height: 0.5rem;
+        }
+        .item-content .item-name, .item-price{
+          font-size: 0.8rem;
+        }
+        
+        .item-quantity{
+            display: flex;
+            height: 1.1rem;
+            gap: 1px;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .minus, .plus{
+            width: 1.6rem;
+            border-radius: 8px;
+            font-size: 1.3rem;
+        }
+    
+        .qnty{
+            width: 0.8rem;
+        }
+        
+        }

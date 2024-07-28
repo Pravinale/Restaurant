@@ -1,0 +1,6 @@
+.review-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 8rem 10rem 0rem 10rem;
+    height: 4rem;
+}

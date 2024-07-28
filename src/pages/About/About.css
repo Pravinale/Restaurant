@@ -1,0 +1,11 @@
+.about-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8rem 10rem 0rem 10rem;
+    height: 4rem;
+}
+
+.about-section h1{
+    font-size: 1rem;
+}
