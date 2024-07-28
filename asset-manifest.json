@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Restaurant/static/css/main.69534905.css",
+    "main.js": "/Restaurant/static/js/main.a997b653.js",
+    "static/media/home-img.webp": "/Restaurant/static/media/home-img.14e8c82ff3c0cae99974.webp",
+    "static/media/VegPizza.webp": "/Restaurant/static/media/VegPizza.39e4637ef50049494435.webp",
+    "static/media/CheeseBurger.webp": "/Restaurant/static/media/CheeseBurger.b31d8c9019ea1c94483d.webp",
+    "static/media/HamBurger.jpg": "/Restaurant/static/media/HamBurger.05b391ff8ecec4ac9130.jpg",
+    "static/media/mojito.png": "/Restaurant/static/media/mojito.2608c52bf849a11a8a2c.png",
+    "static/media/MixedChowmin.jpg": "/Restaurant/static/media/MixedChowmin.0fd4dedaa574322bf2d5.jpg",
+    "static/media/ChickenMomo.jpg": "/Restaurant/static/media/ChickenMomo.fac8d76a8cd7391320d4.jpg",
+    "static/media/chocolate.png": "/Restaurant/static/media/chocolate.6b84b66197a7b52fc105.png",
+    "static/media/VegChowmin.jpg": "/Restaurant/static/media/VegChowmin.3f225cab4c4291ccd07a.jpg",
+    "static/media/KotheyMomo.jpg": "/Restaurant/static/media/KotheyMomo.bfc5a47c4f068d1d8607.jpg",
+    "static/media/logo.png": "/Restaurant/static/media/logo.98e52b577620de23d13d.png",
+    "static/media/ChickenBurger.jpg": "/Restaurant/static/media/ChickenBurger.8492110ab6c4becffaa8.jpg",
+    "static/media/suzan.png": "/Restaurant/static/media/suzan.6deaabadba60a8096bc2.png",
+    "static/media/ChickenChowmin.jpg": "/Restaurant/static/media/ChickenChowmin.ddceb8bd52e957eca7a5.jpg",
+    "static/media/Cmomo.jpg": "/Restaurant/static/media/Cmomo.ef9c881cd18a8f28f3da.jpg",
+    "static/media/ChickenPizza.jpg": "/Restaurant/static/media/ChickenPizza.8a59c1b38c4924e6aca1.jpg",
+    "static/media/app store.png": "/Restaurant/static/media/app store.88ae7bff7ffdca3859e0.png",
+    "static/media/FriedMomo.jpg": "/Restaurant/static/media/FriedMomo.882f91c790f4fb6c9bf6.jpg",
+    "static/media/SalamiPizza.jpeg": "/Restaurant/static/media/SalamiPizza.8c0ae50a260c2100059a.jpeg",
+    "static/media/BuffMomo.webp": "/Restaurant/static/media/BuffMomo.f64bfa79db3a27d86af0.webp",
+    "static/media/JholMomo.webp": "/Restaurant/static/media/JholMomo.d2601d1b16c3f9174063.webp",
+    "index.html": "/Restaurant/index.html",
+    "main.69534905.css.map": "/Restaurant/static/css/main.69534905.css.map",
+    "main.a997b653.js.map": "/Restaurant/static/js/main.a997b653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69534905.css",
+    "static/js/main.a997b653.js"
+  ]
+}
